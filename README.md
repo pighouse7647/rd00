@@ -1,4 +1,4 @@
-## ㄧ、在Docker建立MngoDB
+## ㄧ、在Docker建立MongoDB
 
 ### 下載image同時建立container
 
