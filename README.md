@@ -59,10 +59,6 @@ db.createUser({ user: 'admin', pwd: 'admin1234', roles: [{ role: "readWrite", db
 
 
 
-
-
-
-
 ## 三、Reference
   - MongoDB for Docker 安裝
     - [對岸網友](https://www.jianshu.com/p/2181b2e27021)
@@ -71,3 +67,5 @@ db.createUser({ user: 'admin', pwd: 'admin1234', roles: [{ role: "readWrite", db
   - SpringBoot參考資料
     - [對岸網友](https://www.jianshu.com/p/06376b97b11e)
     - [取代Web MVC的Flux?](https://www.ithome.com.tw/voice/122082)
+    - [MongoDB產生ID](https://www.mkyong.com/mongodb/spring-data-mongodb-auto-sequence-id-example/)
+
