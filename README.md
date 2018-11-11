@@ -1,5 +1,4 @@
-# rd01
-## 在Docker建立MngoDB
+## ㄧ、在Docker建立MngoDB
 
 ### 下載image同時建立container
 
@@ -52,7 +51,7 @@ db.createUser({ user: 'admin', pwd: 'admin1234', roles: [{ role: "readWrite", db
 
 
 
-## 至Spring Initializer建立專案
+## 二、至Spring Initializer建立專案
 - 主要練習目標
   - MangoDB
   - Reactive Web(Web Flux取代Spring Web MVC)
@@ -64,7 +63,7 @@ db.createUser({ user: 'admin', pwd: 'admin1234', roles: [{ role: "readWrite", db
 
 
 
-## Reference
+## 三、Reference
   - MongoDB for Docker 安裝
     - [對岸網友](https://www.jianshu.com/p/2181b2e27021)
     - [官方Docker Hub](https://hub.docker.com/_/mongo/)
