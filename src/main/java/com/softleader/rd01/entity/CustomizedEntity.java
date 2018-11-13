@@ -1,6 +1,7 @@
 package com.softleader.rd01.entity;
 
 
+import java.math.BigDecimal;
 import javax.persistence.Entity;
 import lombok.Getter;
 import lombok.Setter;
@@ -22,6 +23,10 @@ public class CustomizedEntity {
   private String key;
 
   private String name;
+
+  private BigDecimal value;
+
+  private BigDecimal amount;
 
 
 }
